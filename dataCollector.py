@@ -7,10 +7,6 @@ import json
 flag = False
 headers = {'Content-Type': 'application/json'}
 
-##
-###
-##
-
 # config COM port
 while(1):
     time.sleep(0.1)
